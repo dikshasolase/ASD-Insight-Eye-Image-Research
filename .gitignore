@@ -1,0 +1,36 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Private dataset
+Dataset/
+dataset/
+
+# Trained model weights
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Frontend dependencies and build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# IDE and operating system files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
