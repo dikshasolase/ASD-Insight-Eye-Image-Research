@@ -1,4 +1,4 @@
-# ASD Insight — Eye-Image Research Prototype
+# ASD Insight - Eye Image Research Prototype
 
 Experimental eye-region image classification with React + Vite + Tailwind CSS and Python FastAPI.
 
