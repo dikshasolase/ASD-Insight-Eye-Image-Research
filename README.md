@@ -11,6 +11,9 @@ Experimental eye-region image classification with React + Vite + Tailwind CSS an
 - `backend/train_model.py` — ResNet18 training baseline
 - `frontend/` — React upload and results UI
 
+## Deploy Link
+https://asd-insight-eye-image-research.vercel.app/
+
 ## Setup (Windows PowerShell)
 
 ### 1. Add your dataset
