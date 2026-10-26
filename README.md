@@ -12,7 +12,8 @@ Experimental eye-region image classification with React + Vite + Tailwind CSS an
 - `frontend/` — React upload and results UI
 
 ## Deploy Link
-https://asd-insight-eye-image-research.vercel.app/
+https://asd-insight-eye-image-research.vercel.app?utm_source=chatgpt.com
+
 
 ## Setup (Windows PowerShell)
 
