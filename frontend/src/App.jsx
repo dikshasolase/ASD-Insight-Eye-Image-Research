@@ -5,7 +5,7 @@ import {
   UploadCloud, X,
 } from 'lucide-react'
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'
+const API_URL = import.meta.env.VITE_API_BASE_URL || 'https://asd-insight-eye-image-research.onrender.com'
 const MAX_BYTES = 8 * 1024 * 1024
 const ACCEPTED = ['image/jpeg', 'image/png', 'image/webp']
 
